@@ -1,4 +1,4 @@
-[📊 Data Technician Bootcamp – Excel Project (Week 1)
+📊 Data Technician Bootcamp – Excel Project (Week 1)
 
 📌 Overview
 
@@ -13,12 +13,12 @@ AVERAGE / AVERAGEIF – Measured central tendencies
 DATE, MONTH, YEAR – Managed and extracted date components
 UNIQUE – Identified distinct dataset values
 VLOOKUP – Retrieved matching data across tables
-SWITCH – Categorised sales volume into meaningful groups (High, Medium, Low) [Data_Techn...el 2026 v2 | Word]
+SWITCH – Categorised sales volume into meaningful groups (High, Medium, Low) 
 
 
 🔍 Data Cleaning & Exploration
 
-Applied filtering to analyse subsets of data (e.g. sorting age groups) [Data_Techn...el 2026 v2 | Word]
+Applied filtering to analyse subsets of data (e.g. sorting age groups) 
 Used sorting techniques to organise datasets while maintaining structure
 Explored retail transaction datasets for trends and patterns
 
@@ -76,7 +76,7 @@ Low (< 300)
 
 
 
-<img width="170" height="137" alt="image" src="https://github.com/user-attachments/assets/0e965ebc-6816-479b-9a4c-b39fa65b045a" />
+<img width="340" height="274" alt="image" src="https://github.com/user-attachments/assets/0e965ebc-6816-479b-9a4c-b39fa65b045a" />
 
 
 
@@ -84,7 +84,7 @@ Low (< 300)
 
 Developed charts to represent business insights
 
-<img width="1004" height="571" alt="image" src="https://github.com/user-attachments/assets/9a60eed6-946b-438d-a790-33b82c4ac11b" />
+<img width="800" height="459" alt="image" src="https://github.com/user-attachments/assets/9a60eed6-946b-438d-a790-33b82c4ac11b" />
 
 
 
