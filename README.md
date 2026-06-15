@@ -1,4 +1,4 @@
-📊 Data Technician Bootcamp – Excel Project (Week 1)
+[📊 Data Technician Bootcamp – Excel Project (Week 1)
 
 📌 Overview
 
